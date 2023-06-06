@@ -1,6 +1,6 @@
 
 # NLP-from-zero
-[![CI](https://github.com/SepidehHosseinian/function-from-zero/actions/workflows/main.yml/badge.svg)](https://github.com/SepidehHosseinian/function-from-zero/actions/workflows/main.yml)
+[![Python application test with Github Actions](https://github.com/SepidehHosseinian/NLP-from-zero/actions/workflows/main.yml/badge.svg)](https://github.com/SepidehHosseinian/NLP-from-zero/actions/workflows/main.yml)
 
 This is a repo for mastering  nlp from zero
 
