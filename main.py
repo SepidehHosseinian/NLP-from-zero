@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 import uvicorn
-from nlplogic.corenlp import get_phrases
+from mylib.corenlp import get_phrases
 
 app = FastAPI()
 
