@@ -2,7 +2,7 @@
 # NLP-from-zero
 [![CI](https://github.com/SepidehHosseinian/function-from-zero/actions/workflows/main.yml/badge.svg)](https://github.com/SepidehHosseinian/function-from-zero/actions/workflows/main.yml)
 
-This is a repo for mastering Python nlp from zero
+This is a repo for mastering  nlp from zero
 
 ## Project Scaffold
 
