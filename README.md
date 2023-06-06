@@ -2,23 +2,27 @@
 # NLP-from-zero
 [![CI](https://github.com/SepidehHosseinian/function-from-zero/actions/workflows/main.yml/badge.svg)](https://github.com/SepidehHosseinian/function-from-zero/actions/workflows/main.yml)
 
-A repo to learn functions.
+This is a repo for mastering Python nlp from zero
 
-## Step 1:  Configure Development environment
+## Project Scaffold
 
-* Configure GitHub Codespaces or the equivalent (Cloud9, etc)
-* Create scaffold for structure of project:  `Makefile` `requirements.txt`
-* Optional (setup virtualenv) (install ipython outside of requirements.txt)
+* Makefile
+* requirements.txt
+* source code files
 
-## Step 2:  Get interactive debugging working
+## Python Interpretor
 
-* Use IPython and ipdb
+* Regular python shell
+* IPython (many prefer)
 
-```python
-x = 1
-y = 2
-#import ipdb; ipdb.set_trace()
-print(x + y)
+## Python Script
+
+```
+touch hello.py
+chmod +x hello.py 
+./hello.py 
 ```
 
-## Step3:  Build a library and use it
+## Colab and Jupyter Notebooks
+
+statements.ipynb
