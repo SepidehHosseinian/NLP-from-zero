@@ -3,12 +3,12 @@ install:
 		pip install -r requirements.txt
 	python -m textblob.download_corpora
 test:
-	python -m pytest -vv --cov=wikiphrases --cov=nlplogic --cov=main test_corenlp.py
+	python -m pytest -vv --cov=wikiphrases --cov=mylib --cov=main test_corenlp.py
 
 lint:
-	pylint --disable=R,C *.py nlplogic/*.py
+	pylint --disable=R,C *.py mylib/*.py
 	#docker run --rm -i hadolint/hadolint < Dockerfile
 format:
-	black *.py nlplogic
+	black *.py mylib
 
 all: install lint test format
