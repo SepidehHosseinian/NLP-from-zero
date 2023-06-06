@@ -1,5 +1,5 @@
 
-# functions-from-zero
+# NLP-from-zero
 [![CI](https://github.com/SepidehHosseinian/function-from-zero/actions/workflows/main.yml/badge.svg)](https://github.com/SepidehHosseinian/function-from-zero/actions/workflows/main.yml)
 
 A repo to learn functions.
